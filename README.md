@@ -15,6 +15,10 @@ I specialize in architecting robust ETL pipelines and transforming complex big d
 
 **SQL • Python • Apache Spark • Autosys • Kafka (Basics) • Shell Scripting • AWS S3 • GCP • Power BI**
 
+---
+
+## 📦 Featured Projects
+
 ### 🌐 Let’s Connect!
 
 I’m eager to explore opportunities where I can leverage my skills to solve challenging data problems and drive impactful business outcomes.
