@@ -25,6 +25,8 @@ I specialize in architecting robust ETL pipelines and transforming complex big d
 
 ## 📦 Featured Projects
 
+🔹 **Real-Time Cryptocurrency Price Tracker**
+
 ---
 
 ### 🌐 Let’s Connect!
