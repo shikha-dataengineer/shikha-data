@@ -13,5 +13,5 @@
 
 ## 🌐 Let's Connect
 
-- 📧 [Email me](mailto:shikhaa443@gmail.com)  
+- 📧 [Email me](shikhaa443@gmail.com)  
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/shikha-agarwal-1b539a158/)
