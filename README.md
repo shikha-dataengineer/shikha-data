@@ -1,36 +1,105 @@
-👋 Hi, I’m **Shikha Agarwal** — a passionate and results-driven **Data Engineer** with a proven track record of designing and delivering scalable, efficient, and cloud-native data solutions.
+<!-- GitHub Profile README -->
+
+<h1 align="center">Hi 👋, I'm Shikha Agarwal</h1>
+<h3 align="center">Data Engineer | ETL Pipeline Builder | Cloud Enthusiast</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Data Animation">
+</p>
 
 ---
 
-### 🎯 What I Do
+### 🚀 About Me
 
-I specialize in architecting robust ETL pipelines and transforming complex big data into strategic business insights. Leveraging expertise in **Python** and **Apache Spark**, I build high-performance data workflows that drive decision-making and accelerate growth.
+🎯 I’m a **Data Engineer** passionate about building scalable data pipelines and transforming raw data into business-ready insights.
 
----
+🧠 Currently diving deeper into `dbt`, `BigQuery`, and `Metadata Management`.
 
-### 🚀 Core Strengths
+🔗 Exploring open-source and contributing to data engineering projects.
 
-- Hands-on experience with large-scale **ETL systems** and data engineering best practices.  
-- Deep proficiency in **cloud platforms** (AWS, GCP) and orchestration tools to automate and streamline distributed data workflows.  
-- Strong skills in **SQL optimization**, data modeling, and ensuring data quality.  
-- Collaborative mindset focused on empowering cross-functional teams through data-driven insights.
-
----
-
-### 🛠 Tech Stack
-
-**SQL • Python • Apache Spark • Autosys • Kafka (Basics) • Shell Scripting • AWS S3 • GCP • Power BI**
+💬 I love discussing topics like:
+- ETL/ELT architecture
+- Data pipeline reliability
+- Modern data stack
 
 ---
 
-## 📦 Featured Projects
+### 🛠️ My Tech Stack
 
-🔹 **Real-Time Cryptocurrency Price Tracker**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-FDEE21?style=flat&logo=apachespark&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Script-0A66C2?style=flat&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autosys-007ACC?style=flat&logo=gear&logoColor=white"/>
+</p>
 
 ---
 
-### 🌐 Let’s Connect!
+### 📂 Featured Projects
 
-I’m eager to explore opportunities where I can leverage my skills to solve challenging data problems and drive impactful business outcomes.
+| 📁 Project | 🔍 Description | ⚙️ Tools |
+|-----------|----------------|----------|
+| [🔁 ETL Pipeline Framework](https://github.com/your-github-username/etl-framework) | Modular ETL with PySpark & Airflow | PySpark, Airflow, GCS |
+| [📡 Real-Time Crypto Tracker](https://github.com/your-github-username/crypto-tracker) | Real-time pipeline using GCP & BigQuery | Pub/Sub, BQ, Python |
+| [✈️ Airline Delay Analysis](https://github.com/your-github-username/airline-delay-dbt) | Analytical pipeline using dbt + BigQuery | dbt, SQL, BigQuery |
+| [📊 Data Studio Dashboards](https://github.com/your-github-username/data-visuals) | Visual dashboards for pipeline outputs | Looker Studio, GCP |
 
-📧 [Email me](mailto:shikhaa443@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/shikha-agarwal-1b539a158/)
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shikha-dataengineer&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikha-dataengineer&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+### 🧠 Architecture in Action
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/main/assets/pipeline-architecture.gif" width="700" alt="Pipeline Diagram"/>
+</p>
+
+> *GIF: End-to-end pipeline – GCS → Dataflow → BigQuery → Looker Studio*
+
+---
+
+### 🔄 Latest Pipeline Status
+
+![Weather ETL Workflow](https://github.com/shikha-dataengineer/weather-analytics/actions/workflows/weather-etl.yml/badge.svg)
+
+⏱️ Last run: Automatically tracked on GitHub Actions  
+🔁 Triggered by: Scheduled run via GitHub Actions  
+✅ Current status: See badge above
+
+---
+
+### 📬 Connect With Me
+
+<p>
+  <a href="mailto:s4017856@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shikha-agarwal-1b539a158/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📄 Resume
+
+📥 Available upon request — [Email Me](mailto:shikhaa443@gmail.com)
+
+---
+
+### 🔥 Quote That Drives Me
+
+> _“Data is a precious thing and will last longer than the systems themselves.”_ – Tim Berners-Lee
+
+---
+
