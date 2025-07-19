@@ -58,13 +58,26 @@
 
 ---
 
-### 🧠 Architecture in Action
+### 💡 Impact Highlights
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/main/assets/pipeline-architecture.gif" width="700" alt="Pipeline Diagram"/>
-</p>
+<ul>
+  <li>🚀 Reduced data processing time by <strong>40%</strong> by optimizing PySpark transformations</li>
+  <li>📈 Achieved <strong>99.9% pipeline reliability</strong> with automated data quality checks</li>
+  <li>🔍 Boosted discoverability with metadata lineage using <code>dbt</code> and <code>BigQuery</code></li>
+  <li>🏦 At <strong>Citibank</strong>, built secure data pipelines handling sensitive financial transactions using Autosys & Hive</li>
+  <li>🛡️ At <strong>Guardian Life Insurance</strong>, developed ETL jobs in PySpark to ingest and transform <strong>healthcare claims data</strong></li>
+  <li>☁️ Migrated legacy SQL workflows to modern, scalable <strong>GCP pipelines</strong></li>
+</ul>
 
-> *GIF: End-to-end pipeline – GCS → Dataflow → BigQuery → Looker Studio*
+---
+
+### 🌟 Growth Focus
+
+- Building expertise in cloud data platforms like Google BigQuery  
+- Designing and deploying serverless data pipelines using Cloud Functions and Cloud Run  
+- Automating ETL workflows with cloud-native orchestration tools like Airflow and Cloud Composer  
+- Enhancing project management skills using JIRA for agile data engineering projects  
+- Planning to master real-time streaming architectures with Apache Kafka
 
 ---
 
@@ -103,3 +116,8 @@
 
 ---
 
+### 🤝 Open to Opportunities
+
+If you’re looking for a motivated data engineer to help solve your data challenges, feel free to reach out!
+
+---
