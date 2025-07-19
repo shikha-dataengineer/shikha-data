@@ -42,10 +42,10 @@
 
 | 📁 Project | 🔍 Description | ⚙️ Tools |
 |-----------|----------------|----------|
-| [🔁 ETL Pipeline Framework](https://github.com/your-github-username/etl-framework) | Modular ETL with PySpark & Airflow | PySpark, Airflow, GCS |
-| [📡 Real-Time Crypto Tracker](https://github.com/your-github-username/crypto-tracker) | Real-time pipeline using GCP & BigQuery | Pub/Sub, BQ, Python |
-| [✈️ Airline Delay Analysis](https://github.com/your-github-username/airline-delay-dbt) | Analytical pipeline using dbt + BigQuery | dbt, SQL, BigQuery |
-| [📊 Data Studio Dashboards](https://github.com/your-github-username/data-visuals) | Visual dashboards for pipeline outputs | Looker Studio, GCP |
+| [💰 Finance Data Quality Framework](https://github.com/shikha-dataengineer/finance-dq-check) | Data Quality checks on Financial CSV data | PySpark, Python |
+| [📡 Cryptocurrency Price Tracker](https://github.com/shikha-dataengineer/crypto-price-tracker) | Real-time pipeline using GCP & BigQuery | Looker Studio, BQ, Python |
+| [✈️ Airline Delay Analysis](https://github.com/shikha-dataengineer/airline-delay-analysis) | Analytical pipeline using dbt + BigQuery | dbt, SQL, BigQuery |
+| [🌦️ Weather Analytics ETL Pipeline](https://github.com/shikha-dataengineer/weather-analytics) | Serverless ETL pipeline fetching & storing real-time weather data | Looker Studio, GCS, Python |
 
 ---
 
